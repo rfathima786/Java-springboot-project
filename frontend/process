@@ -25,3 +25,8 @@ systemctl daemon-reload
 systemctl enable frontend
 systemctl start frontend
 systemctl status frontend
+
+
+#to exit venv give exit 
+# to activate source venv/bin/activate
+
